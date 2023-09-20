@@ -4,5 +4,3 @@ for i in files/*; do
   mv "$i" "$x"
 echo "moving:" "$i"
 done
-
-exit 0
